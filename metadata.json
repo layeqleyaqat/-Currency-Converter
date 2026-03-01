@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Currency Converter",
+  "description": "A real-time currency converter using Gemini API with Google Search grounding for up-to-date exchange rates.",
+  "requestFramePermissions": []
+}
